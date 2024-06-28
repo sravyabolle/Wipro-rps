@@ -1,0 +1,7 @@
+C:\Wipro\HTML\EmployeeData\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Wipro\HTML\EmployeeData\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Wipro\HTML\EmployeeData\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Wipro\HTML\EmployeeData\EmployeeData\obj\Debug\EmployeeData.csproj.AssemblyReference.cache
+C:\Wipro\HTML\EmployeeData\EmployeeData\obj\Debug\EmployeeData.csproj.CoreCompileInputs.cache
+C:\Wipro\HTML\EmployeeData\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Wipro\HTML\EmployeeData\EmployeeData\obj\Debug\EmployeeData.pdb
